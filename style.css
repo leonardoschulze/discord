@@ -1,0 +1,79 @@
+.Alto{
+    background-color: gainsboro;
+    right: 0;
+    display: flex;
+    justify-content:flex-end;
+    padding: 0;
+    margin: 0;
+}
+
+
+header{
+    background-color: gainsboro;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+main{
+    margin: 0;
+    padding: 0;
+}
+.circulo{
+    padding: 10px;
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-image: url("../Discord/imagens/1.jpg");
+    background-size: cover;
+    border-color: greenyellow;
+    border-style: solid;
+}
+
+main{
+    background-color: black;
+    color: white;
+}
+
+button{
+    background-color: #00c3ff;
+    color: #FFF;
+    width: 70%;
+    border-radius: 140px;
+    padding: 10px;
+    border: 0;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 14px;
+}
+
+.editar{
+    display: flex;
+    justify-content: center;
+}
+
+.membro{
+    background-color: rgb(56, 55, 55);
+    color: rgb(148, 144, 144);
+    max-width: 80%;
+    border-radius: 8px;
+    margin-top: 25px;
+    margin-left: 37px;
+    
+}
+
+.main {
+    margin-top: -20px;
+}
+
+h3{
+    margin: 0;
+    margin-left: 10px;
+}
+
+h4{
+    margin: 0;
+    margin-left: 10px;
+}
+
